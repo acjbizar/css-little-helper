@@ -26,6 +26,18 @@
   float: right;
 }
 
+.cn {
+  clear: none;
+}
+
+.cl {
+  clear: left;
+}
+
+.cr {
+  clear: right;
+}
+
 .lc {
   text-transform: lowercase;
 }
