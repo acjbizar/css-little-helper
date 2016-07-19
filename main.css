@@ -1,0 +1,55 @@
+.dn {
+  display: none;
+}
+
+.di {
+  display: inline;
+}
+
+.db {
+  display: block;
+}
+
+.dt {
+  display: table;
+}
+
+.fn {
+  float: none;
+}
+
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
+
+.lc {
+  text-transform: lowercase;
+}
+
+.uc {
+  text-transform: uppercase;
+}
+
+.sc {
+  font-variant: small-caps;
+}
+
+.tc {
+  text-align: center;
+}
+
+.tl {
+  text-align: left;
+}
+
+.tr {
+  text-align: right;
+}
+
+.tj {
+  text-align: justify;
+}
