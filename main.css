@@ -38,6 +38,12 @@
   clear: right;
 }
 
+.cf:after {
+  clear: both;
+  content: '';
+  display: block;
+}
+
 .lc {
   text-transform: lowercase;
 }
